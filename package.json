@@ -1,0 +1,27 @@
+{
+  "name": "testckeditores5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no src/test specified\\\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fuse-box": "^3.7.1",
+    "terser": "^3.17.0",
+    "typescript": "^3.3.4000",
+    "typescript-tslint-plugin": "^0.3.1",
+    "uglify-js": "^3.5.2"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^12.0.0",
+    "@ckeditor/ckeditor5-vue": "^1.0.0-beta.1",
+    "opn": "^6.0.0",
+    "source-map-unpack": "0.0.4",
+    "vue": "^2.6.10",
+    "vue-template-compiler": "^2.6.10",
+    "vue-template-es2015-compiler": "^1.9.1"
+  }
+}
